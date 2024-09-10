@@ -1,5 +1,5 @@
 import React from 'react';
-import {AppBar, Box, Button, Toolbar, Typography} from "@mui/material";
+import {AppBar, Box, Button, Toolbar} from "@mui/material";
 import Logo from "@/components/Logo/Logo";
 
 export default async function Navbar() {
